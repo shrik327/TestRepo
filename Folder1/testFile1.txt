@@ -1,2 +1,6 @@
 Testing File 1
-This line should cause conflict
+This should cause conflict... which is now resolved
+Testing File 2
+Testing File 3
+Testing File 4
+Testing File 5
