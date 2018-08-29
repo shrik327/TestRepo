@@ -1,4 +1,5 @@
 Testing File 1
+This should cause conflict... which is now resolved
 Testing File 2
 Testing File 3
 Testing File 4
