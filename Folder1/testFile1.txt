@@ -1,1 +1,2 @@
 Testing File 1
+This line should cause conflict
